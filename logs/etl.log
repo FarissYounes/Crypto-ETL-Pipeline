@@ -1,0 +1,38 @@
+2025-11-13 17:53:47,473 - INFO - Starting to fetch trending coins...
+2025-11-13 17:53:47,539 - INFO - Trending coins fetched successfully (status code 200)
+2025-11-13 17:53:47,541 - INFO - Total trending coins retrieved: 15
+2025-11-13 17:53:47,548 - INFO - Starting to fetch market metrics for coins...
+2025-11-13 17:53:47,756 - INFO - Batch fetched successfully (15 coins)
+2025-11-13 17:53:47,757 - INFO - Market metrics fetching completed: 15 coins total
+2025-11-13 17:53:47,765 - INFO - Starting to fetch historical data for date 13-11-2025...
+2025-11-13 17:53:47,768 - INFO - Fetching historical data for coin: zcoin
+2025-11-13 17:53:47,840 - INFO - Historical data fetched for zcoin (status 200)
+2025-11-13 17:53:47,840 - INFO - Fetching historical data for coin: zcash
+2025-11-13 17:53:47,919 - INFO - Historical data fetched for zcash (status 200)
+2025-11-13 17:53:47,919 - INFO - Fetching historical data for coin: ripple
+2025-11-13 17:53:47,995 - INFO - Historical data fetched for ripple (status 200)
+2025-11-13 17:53:47,996 - INFO - Fetching historical data for coin: pudgy-penguins
+2025-11-13 17:53:48,060 - INFO - Historical data fetched for pudgy-penguins (status 200)
+2025-11-13 17:53:48,060 - INFO - Fetching historical data for coin: aster-2
+2025-11-13 17:53:48,102 - INFO - Historical data fetched for aster-2 (status 200)
+2025-11-13 17:53:48,102 - INFO - Fetching historical data for coin: ethereum
+2025-11-13 17:53:48,139 - INFO - Historical data fetched for ethereum (status 200)
+2025-11-13 17:53:48,139 - INFO - Fetching historical data for coin: aerodrome-finance
+2025-11-13 17:53:48,182 - INFO - Historical data fetched for aerodrome-finance (status 200)
+2025-11-13 17:53:48,182 - INFO - Fetching historical data for coin: uniswap
+2025-11-13 17:53:48,219 - INFO - Historical data fetched for uniswap (status 200)
+2025-11-13 17:53:48,219 - INFO - Fetching historical data for coin: bitcoin
+2025-11-13 17:53:48,261 - INFO - Historical data fetched for bitcoin (status 200)
+2025-11-13 17:53:48,261 - INFO - Fetching historical data for coin: avantis
+2025-11-13 17:53:48,302 - INFO - Historical data fetched for avantis (status 200)
+2025-11-13 17:53:48,302 - INFO - Fetching historical data for coin: telcoin
+2025-11-13 17:53:48,342 - INFO - Historical data fetched for telcoin (status 200)
+2025-11-13 17:53:48,342 - INFO - Fetching historical data for coin: meteora
+2025-11-13 17:53:48,374 - INFO - Historical data fetched for meteora (status 200)
+2025-11-13 17:53:48,374 - INFO - Fetching historical data for coin: avalanche-2
+2025-11-13 17:53:48,425 - INFO - Historical data fetched for avalanche-2 (status 200)
+2025-11-13 17:53:48,425 - INFO - Fetching historical data for coin: solana
+2025-11-13 17:53:48,474 - INFO - Historical data fetched for solana (status 200)
+2025-11-13 17:53:48,474 - INFO - Fetching historical data for coin: bittensor
+2025-11-13 17:53:49,064 - INFO - Historical data fetched for bittensor (status 200)
+2025-11-13 17:53:49,064 - INFO - Historical data fetching completed for 15 coins
