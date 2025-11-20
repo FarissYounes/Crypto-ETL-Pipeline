@@ -18,5 +18,6 @@ def save_file(file_name: str, data: list, data_type: DataType) :
     df.to_csv(path)
 
 def load_data(file_name: str, data_type: DataType) -> pd.DataFrame :
-    df = get_storage_path(data_type, file_name)
+    file_path = get_storage_path(data_type, file_name)
+    df = pd.read_csv(file_path)
     return df
